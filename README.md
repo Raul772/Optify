@@ -40,6 +40,7 @@ Para instalar e executar o Optify, siga os seguintes passos:
    ```
 
    O comando acima criará um arquivo `.exe` dentro da pasta `dist/`.
+   Por vezes, o arquivo `.exe` gerado pode ser apontado como ameaça, isso ocorre por falta de assinatura digital do software. Para todos os efeitos, o código é simples e pode ser conferido antes de ser executado.
 
 ## Estrutura do Projeto
 
